@@ -1,0 +1,8 @@
+package edu.illinois.dynamiccheck;
+
+public class DynamicCheck {
+
+	public static void main(String[] args) {
+		System.out.println("Hello world!");
+	}
+}
